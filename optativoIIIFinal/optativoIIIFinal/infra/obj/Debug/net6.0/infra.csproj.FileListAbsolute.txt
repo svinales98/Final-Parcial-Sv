@@ -1,0 +1,12 @@
+C:\Users\Renzo\source\repos\optativoIIIFinal\infra\bin\Debug\net6.0\infra.deps.json
+C:\Users\Renzo\source\repos\optativoIIIFinal\infra\bin\Debug\net6.0\infra.dll
+C:\Users\Renzo\source\repos\optativoIIIFinal\infra\bin\Debug\net6.0\infra.pdb
+C:\Users\Renzo\source\repos\optativoIIIFinal\infra\obj\Debug\net6.0\infra.csproj.AssemblyReference.cache
+C:\Users\Renzo\source\repos\optativoIIIFinal\infra\obj\Debug\net6.0\infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renzo\source\repos\optativoIIIFinal\infra\obj\Debug\net6.0\infra.AssemblyInfoInputs.cache
+C:\Users\Renzo\source\repos\optativoIIIFinal\infra\obj\Debug\net6.0\infra.AssemblyInfo.cs
+C:\Users\Renzo\source\repos\optativoIIIFinal\infra\obj\Debug\net6.0\infra.csproj.CoreCompileInputs.cache
+C:\Users\Renzo\source\repos\optativoIIIFinal\infra\obj\Debug\net6.0\infra.dll
+C:\Users\Renzo\source\repos\optativoIIIFinal\infra\obj\Debug\net6.0\refint\infra.dll
+C:\Users\Renzo\source\repos\optativoIIIFinal\infra\obj\Debug\net6.0\infra.pdb
+C:\Users\Renzo\source\repos\optativoIIIFinal\infra\obj\Debug\net6.0\ref\infra.dll
